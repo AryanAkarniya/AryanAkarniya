@@ -1,4 +1,4 @@
-![logo](https://github.com/AryanAkarniya/AryanAkarniya/blob/main/ELECTRICAL%20ENGINEERING%20STUDENT.png)
+
 <h1 align="center">Hi 👋, I'm Aryan Akarniya</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
